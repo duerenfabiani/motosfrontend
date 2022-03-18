@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import { useState } from 'react';
 import Cadastrar from './Cadastrar';
 
-function Carro() {
+function Moto() {
 
     const [alerta, setAlerta] = useState({ status: "", message: "" });
 
@@ -33,4 +33,4 @@ function Carro() {
 
 }
 
-export default Carro;
+export default Moto;
