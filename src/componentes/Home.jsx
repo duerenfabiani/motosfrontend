@@ -1,6 +1,6 @@
 const Home = () => (
     <div>
-        <h1>Carros</h1>
+        <h1>Motos</h1>
     </div>
 );
 
